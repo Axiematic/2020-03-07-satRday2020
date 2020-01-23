@@ -22,8 +22,8 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 <table style="width:100%" >
 	
   <tr>
-	<td align="center" style="background-color:white" style="width:50%" ><a href="http://capetown2018.satrdays.org"><img style="display:block;" height="15%" width="20%" src="./fig/satRdayLogo.png" alt="satRday"></a></td>
-
+	<td align="center" style="background-color:white" style="width:50%" ><a href="https://joburg2020.satrdays.org/"><img style="display:block;" height="15%" width="20%" src="./fig/satRdayLogo.png" alt="satRday"></a></td>
+  <td align="center" style="background-color:white" style="width:50%" ><a href="https://qkt.io/LmCHPu"><img style="display:block;" height="15%" width="20%" src="./fig/quicket.jfif" alt="satRday"></a></td>
    <!--
 	<td align="center" style="background-color:white" style="width:33.3%"><a href=""><img style="display:block;" height="70%" src="" alt=""></a></td>
 	-->
