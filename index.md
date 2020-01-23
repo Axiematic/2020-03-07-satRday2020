@@ -18,22 +18,6 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 ---
 
 
-<!-- Logos -->
-<div>
-<table style="width:100%" >
-	
-	<tr>
-	<td align="center" style="background-color:white" style="width:50%" ><a href="https://joburg2020.satrdays.org/"><img style="display:block;" height="10%" width="20%" src="./fig/satRdayLogo.png" alt="satRday"></a></td>
-
-   <!--
-	<td align="center" style="background-color:white" style="width:33.3%"><a href=""><img style="display:block;" height="70%" src="" alt=""></a></td>
-	-->
-	</tr>
-</table>
-</div>
-<div>
-
-
 {% comment %} See instructions in the comments below for how to edit specific sections of this workshop template. {% endcomment %}
 
 {% comment %}
