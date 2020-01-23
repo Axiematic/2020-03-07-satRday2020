@@ -23,14 +23,18 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 	
   <tr>
 	<td align="center" style="background-color:white" style="width:50%" ><a href="https://joburg2020.satrdays.org/"><img style="display:block;" height="15%" width="20%" src="./fig/satRdayLogo.png" alt="satRday"></a></td>
-  <td align="center" style="background-color:white" style="width:50%" ><a href="https://qkt.io/LmCHPu"><img style="display:block;" height="15%" width="20%" src="./fig/quicket.jfif" alt="satRday"></a></td>
-   <!--
+ 
+ <!--
 	<td align="center" style="background-color:white" style="width:33.3%"><a href=""><img style="display:block;" height="70%" src="" alt=""></a></td>
 	-->
 	</tr>
 </table>
 </div>
+
+
 <div>
+  
+  <iframe src="https://www.quicket.co.za/embed.aspx?productid=96582&productname=satrday2020-introductory-r-workshop&embed=true&v=2" frameborder="0" scrolling="yes" width="100%" height="600"></iframe>
    
 </div>
 
