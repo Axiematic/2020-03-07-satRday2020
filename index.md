@@ -17,6 +17,22 @@ collaborative_notes: https://beta.etherpad.org/p/satRday2020            # option
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
 
+<!-- Logos -->
+<div>
+<table style="width:100%" >
+	
+  <tr>
+	<td align="center" style="background-color:white" style="width:50%" ><a href="http://capetown2018.satrdays.org"><img style="display:block;" height="20%" width="20%" src="./fig/satRdayLogo.png" alt="satRday"></a></td>
+
+   <!--
+	<td align="center" style="background-color:white" style="width:33.3%"><a href=""><img style="display:block;" height="70%" src="" alt=""></a></td>
+	-->
+	</tr>
+</table>
+</div>
+<div>
+   
+</div>
 
 {% comment %} See instructions in the comments below for how to edit specific sections of this workshop template. {% endcomment %}
 
