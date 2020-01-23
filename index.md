@@ -29,11 +29,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 	-->
 	</tr>
 </table>
-</div>
-
-
-<div>
-  
+ 
   <iframe src="https://www.quicket.co.za/embed.aspx?productid=96582&productname=satrday2020-introductory-r-workshop&embed=true&v=2" frameborder="0" scrolling="yes" width="100%" height="600"></iframe>
    
 </div>
